@@ -71,18 +71,6 @@ Industrial ETL pipelines for collecting, transforming, and analyzing manufacturi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushaZhiyani&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushaZhiyani&layout=compact" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
