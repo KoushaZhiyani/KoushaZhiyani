@@ -2,7 +2,7 @@
 
 ### Backend Engineer • Data Engineer • Automation Builder
 
-I'm a software engineer focused on building data-driven systems, backend services, ETL pipelines, and developer productivity tools.
+I'm a enthusiastic data engineer focused on building data-driven systems, backend services, ETL pipelines, and developer productivity tools.
 
 I enjoy turning messy data and repetitive workflows into reliable, maintainable, and automated systems. Most of my projects revolve around:
 
