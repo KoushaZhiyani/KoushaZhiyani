@@ -17,9 +17,9 @@ I enjoy turning messy data and repetitive workflows into reliable, maintainable,
 
 ## 🚀 Featured Projects
 
-### 📦 Project File Collector
+### 🧰 Toolbox
 
-A Python CLI tool that recursively scans project directories and exports source code into a structured single-file format for AI tools, code reviews, and documentation workflows.
+A collection of practical Python utilities and command-line tools for development, automation, database analysis, file processing, and documentation workflows. Each tool is self-contained, documented, and designed to solve real-world engineering problems.
 
 ### ⚽ Football Match Center
 
